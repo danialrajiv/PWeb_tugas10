@@ -45,14 +45,16 @@ Proyek ini dijalankan secara lokal menggunakan **XAMPP** dan diakses melalui bro
 ### 🖼️ Tampilan Web (Screenshot)
 
 **Halaman Utama**
-![Halaman Utama](URL_GAMBAR_ANDA_DI_SINI.png)
+![Halaman Utama](https://github.com/danialrajiv/PWeb_tugas10/blob/main/home_page.png)
 
 **Halaman Daftar Siswa dengan Foto & Timestamp**
-![Halaman Daftar Siswa](URL_GAMBAR_ANDA_DI_SINI.png)
+![Halaman Daftar Siswa](https://github.com/danialrajiv/PWeb_tugas10/blob/main/list_page.png)
 
 **Halaman Formulir Pendaftaran**
-![Formulir Pendaftaran](URL_GAMBAR_ANDA_DI_SINI.png)
+![Formulir Pendaftaran](https://github.com/danialrajiv/PWeb_tugas10/blob/main/form_page.png)
 
+**Halaman Edit**
+![Formulir Pendaftaran](https://github.com/danialrajiv/PWeb_tugas10/blob/main/edit_page.png)
 ---
 
 ### 👨‍💻 Kode Sumber (Source Code)
