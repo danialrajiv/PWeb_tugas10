@@ -252,5 +252,3 @@ fieldset { border: none; padding: 0; }
 ```
 
 </details>
-
-*(Untuk file lainnya seperti `form-daftar.php`, `proses-pendaftaran.php`, `form-edit.php`, `proses-edit.php`, dan `hapus.php` Anda bisa salin dari jawaban saya sebelumnya karena tidak ada perubahan lebih lanjut pada logika intinya).*
